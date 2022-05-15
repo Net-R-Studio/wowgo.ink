@@ -1,37 +1,20 @@
 ## wowgo.ink
 
-You can use the [editor on GitHub](https://github.com/Net-R-Studio/wowgoink/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NRS合作-旗下项目连接通道
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+简便、权威、快速  
 
-### Markdown
+### 如何接入
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**成为NRS合作方**  
 
-```markdown
-Syntax highlighted code block
+联系wangyuxiang@net-r-studio.top (+8 北京时间)
+或1107@net-r-studio.top (UTC世界协调时)
 
-# Header 1
-## Header 2
-### Header 3
+### 包含什么项目?
 
-- Bulleted
-- List
+包含Minecraft服务器、Unturned服务器、开发服务器和其他开发用途
 
-1. Numbered
-2. List
+### 它持久吗?免费吗
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Net-R-Studio/wowgoink/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+是的,NRS保证它持久可用并免费
