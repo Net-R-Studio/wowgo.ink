@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## wowgo.ink
 
 You can use the [editor on GitHub](https://github.com/Net-R-Studio/wowgoink/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
