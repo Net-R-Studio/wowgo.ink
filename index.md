@@ -18,3 +18,8 @@ NRS合作-旗下项目连接通道
 ### 它持久吗?免费吗
 
 是的,NRS保证它持久可用并免费
+  
+  
+中国区域维护:Qingdao Yunshanghongshi Network Technology co.,ltd
+亚洲区域维护:NRSinnovate(Pakistan) Technology co.,ltd
+世界区域:NRSinnovate(China Hong Kong) Technology co.,ltd
